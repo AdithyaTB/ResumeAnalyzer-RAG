@@ -1,0 +1,48 @@
+DATA ANALYST
+
+Company: Business Intelligence Partners
+Location: Chicago, IL
+
+Job Description:
+We are seeking a detail-oriented Data Analyst to join our analytics team. The successful candidate will be responsible for transforming data into insights that drive business decisions.
+
+Responsibilities:
+- Collect, process, and analyze large datasets
+- Create interactive dashboards and reports
+- Develop and maintain SQL queries for data extraction
+- Identify trends, patterns, and insights from data
+- Collaborate with business stakeholders to define requirements
+- Ensure data quality and integrity
+- Present findings to technical and non-technical audiences
+- Support data-driven decision making across departments
+
+Qualifications:
+- 2+ years of experience in data analysis or business intelligence
+- Strong proficiency in SQL and data visualization tools
+- Experience with Python or R for data analysis
+- Knowledge of statistical analysis techniques
+- Excellent analytical and problem-solving skills
+- Strong communication and presentation skills
+- Attention to detail and accuracy
+
+Technical Skills:
+- SQL (Advanced queries, joins, aggregations)
+- Data Visualization (Tableau, Power BI, or similar)
+- Python (Pandas, NumPy) or R
+- Excel (Advanced functions, pivot tables)
+- Database management systems
+
+Preferred Qualifications:
+- Experience with cloud data platforms (Snowflake, BigQuery)
+- Knowledge of ETL processes
+- Understanding of business metrics and KPIs
+- Experience in [specific industry] is a plus
+
+Education:
+- Bachelor's degree in Data Science, Statistics, Computer Science, or related field
+
+Compensation & Benefits:
+- Competitive salary based on experience
+- Comprehensive benefits package
+- Professional development opportunities
+- Collaborative team environment

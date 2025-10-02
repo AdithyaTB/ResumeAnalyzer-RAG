@@ -1,0 +1,40 @@
+SENIOR DATA SCIENTIST
+
+Company: Innovative Tech Solutions
+Location: San Francisco, CA (Remote Possible)
+
+About the Role:
+We are seeking an experienced Senior Data Scientist to join our growing AI team. You will be responsible for developing cutting-edge machine learning solutions, leading projects, and mentoring junior team members.
+
+Key Responsibilities:
+- Design, develop, and deploy machine learning models into production
+- Lead end-to-end data science projects from ideation to implementation
+- Collaborate with cross-functional teams including engineering and product
+- Analyze large, complex datasets to extract meaningful insights
+- Develop and maintain data pipelines and ML infrastructure
+- Mentor junior data scientists and provide technical guidance
+- Communicate findings and recommendations to stakeholders
+
+Required Qualifications:
+- 5+ years of professional experience in data science or machine learning
+- Master's or PhD in Computer Science, Statistics, Mathematics, or related field
+- Strong programming skills in Python and SQL
+- Extensive experience with machine learning frameworks (Scikit-learn, TensorFlow, PyTorch)
+- Proficiency with data manipulation libraries (Pandas, NumPy)
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Solid understanding of statistical analysis and experimental design
+- Excellent communication and leadership skills
+
+Preferred Qualifications:
+- Experience with MLOps tools and practices
+- Knowledge of deep learning architectures
+- Experience with big data technologies (Spark, Hadoop)
+- Published research in machine learning or related fields
+- Experience with containerization (Docker, Kubernetes)
+
+What We Offer:
+- Competitive salary and equity package
+- Comprehensive health benefits
+- Flexible work arrangements
+- Professional development opportunities
+- Collaborative and innovative work environment

@@ -1,0 +1,51 @@
+role,skills,experience_years,education
+data_scientist,python,sql,machine learning,pandas,scikit-learn,tensorflow,git,aws,statistics,5,masters
+data_scientist,python,r,sql,deep learning,pytorch,numpy,matplotlib,docker,mlops,4,masters
+data_scientist,python,sql,data analysis,tableau,power bi,excel,statistics,communication,3,bachelors
+data_scientist,python,java,sql,machine learning,big data,spark,hadoop,aws,azure,6,phd
+data_scientist,python,sql,nlp,computer vision,transformers,keras,git,docker,linux,4,masters
+software_engineer,javascript,python,java,react,node.js,html,css,git,aws,4,bachelors
+software_engineer,java,python,c++,spring boot,hibernate,sql,git,docker,kubernetes,5,bachelors
+software_engineer,javascript,typescript,react,angular,node.js,mongodb,aws,git,agile,3,bachelors
+software_engineer,python,java,go,django,flask,postgresql,docker,kubernetes,linux,6,masters
+software_engineer,javascript,python,react,vue.js,express,mysql,aws,git,rest,4,bachelors
+data_analyst,sql,python,excel,tableau,power bi,statistics,communication,problem solving,2,bachelors
+data_analyst,sql,r,excel,power bi,statistics,data visualization,reporting,python,3,bachelors
+data_analyst,sql,python,tableau,excel,statistics,critical thinking,presentation,communication,4,bachelors
+data_analyst,sql,python,power bi,excel,data modeling,etl,statistics,problem solving,3,masters
+data_analyst,sql,excel,tableau,statistics,communication,teamwork,time management,python,2,bachelors
+devops_engineer,python,bash,aws,docker,kubernetes,jenkins,terraform,linux,git,5,bachelors
+devops_engineer,go,python,azure,docker,kubernetes,ansible,terraform,linux,monitoring,4,bachelors
+devops_engineer,python,java,aws,docker,kubernetes,jenkins,prometheus,grafana,git,6,masters
+devops_engineer,python,bash,gcp,docker,kubernetes,terraform,gitlab,linux,automation,4,bachelors
+web_developer,javascript,html,css,react,node.js,mongodb,git,aws,responsive design,3,bachelors
+web_developer,javascript,typescript,angular,node.js,sql,git,docker,aws,agile,4,bachelors
+web_developer,javascript,python,django,react,postgresql,git,aws,linux,rest,3,bachelors
+mobile_developer,java,kotlin,android,git,firebase,sql,rest,agile,problem solving,4,bachelors
+mobile_developer,swift,objective-c,ios,git,firebase,rest,agile,communication,3,bachelors
+machine_learning_engineer,python,sql,tensorflow,pytorch,scikit-learn,docker,aws,mlops,git,5,masters
+machine_learning_engineer,python,c++,tensorflow,pytorch,computer vision,opencv,docker,aws,linux,4,phd
+data_engineer,python,sql,java,spark,hadoop,kafka,aws,docker,airflow,5,bachelors
+data_engineer,python,sql,scala,spark,aws,azure,docker,kubernetes,terraform,6,masters
+business_analyst,sql,excel,power bi,tableau,communication,requirements,uml,agile,project management,4,bachelors
+business_analyst,sql,excel,power bi,communication,stakeholder management,documentation,agile,problem solving,3,bachelors
+data_scientist,python,sql,r,machine learning,statistics,tableau,git,communication,5,masters
+data_scientist,python,sql,deep learning,tensorflow,keras,aws,docker,research,4,phd
+software_engineer,javascript,python,react,node.js,mongodb,aws,docker,git,testing,4,bachelors
+software_engineer,java,python,spring,microservices,sql,aws,docker,kubernetes,agile,5,masters
+data_analyst,sql,python,excel,power bi,statistics,storytelling,communication,teamwork,3,bachelors
+data_analyst,sql,r,tableau,excel,statistics,data cleaning,visualization,reporting,2,bachelors
+devops_engineer,python,bash,aws,terraform,docker,kubernetes,jenkins,prometheus,linux,5,bachelors
+devops_engineer,python,go,azure,ansible,docker,kubernetes,terraform,monitoring,git,4,masters
+web_developer,javascript,html,css,react,angular,node.js,mongodb,git,aws,3,bachelors
+web_developer,javascript,typescript,vue.js,node.js,postgresql,docker,aws,rest,agile,4,bachelors
+mobile_developer,kotlin,java,android,firebase,sql,git,rest,agile,problem solving,3,bachelors
+mobile_developer,swift,ios,objective-c,firebase,git,rest,communication,teamwork,4,bachelors
+machine_learning_engineer,python,sql,pytorch,tensorflow,scikit-learn,docker,aws,research,git,5,masters
+machine_learning_engineer,python,c++,tensorflow,pytorch,nlp,transformers,docker,aws,linux,4,phd
+data_engineer,python,sql,spark,kafka,aws,airflow,docker,terraform,etl,5,bachelors
+data_engineer,python,sql,java,hadoop,spark,aws,docker,kubernetes,monitoring,6,masters
+business_analyst,sql,excel,power bi,communication,requirements,uml,agile,stakeholder,project management,4,bachelors
+business_analyst,sql,excel,tableau,communication,documentation,agile,problem solving,teamwork,3,bachelors
+data_scientist,python,sql,machine learning,deep learning,tensorflow,aws,git,statistics,5,masters
+data_scientist,python,r,sql,statistics,tableau,git,communication,research,4,phd
