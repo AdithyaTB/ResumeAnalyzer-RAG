@@ -44,8 +44,8 @@ ResumeVision AI is a cutting-edge resume analysis platform that leverages **Arti
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/resume-vision-ai.git
-cd resume-vision-ai
+git clone https://github.com/AdithyaTB/ResumeAnalyzer-RAG.git
+cd ResumeAnalyzer-RAG.git
 ```
 
 2. **Set up the backend**
@@ -325,7 +325,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🏆 Contributors
 
 <a href="https://github.com/AdithyaTB/ResumeAnalyzer-RAG/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your-username/resume-vision-ai" />
+  <img src="https://contrib.rocks/image?repo=ResumeAnalyzer-RAG.git/ResumeAnalyzer-RAG.git" />
 </a>
 
 ---
@@ -334,8 +334,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by the ResumeVision AI Team**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/resume-vision-ai&type=Date)](https://star-history.com/#your-username/resume-vision-ai&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=AdithyaTB/resume-vision-ai&type=Date)](https://star-history.com/#your-username/resume-vision-ai&Date)
 
 *If this project helps you, please give it a ⭐!*
 
 </div>
+
